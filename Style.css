@@ -1,0 +1,27 @@
+html {
+  background-color: rgb(250, 246, 215);
+}
+
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  /* border: 2px solid black;
+  background-color: #efc66f; */
+  border: 2px solid black;
+  background-color: #ddfaff;
+}
+
+#cloudE1 {
+  display: none;
+}
+
+h1 {
+  color: rgb(172, 132, 72);
+  color: rgb(219, 182, 113);
+  color: rgb(253, 227, 170);
+  color: rgb(0, 33, 77);
+  color: rgb(20, 50, 131);
+  color: rgb(255, 255, 186);
+}
